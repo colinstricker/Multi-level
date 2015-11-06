@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Ballscript.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\GitHub\Multi-level\Assets\Scripts\Bricks.cs">
     <Files>
-      <File FileName="Assets\Scripts\Ballscript.cs" Line="15" Column="3" />
+      <File FileName="..\GitHub\Multi-level\Assets\Scripts\Bricks.cs" Line="11" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
